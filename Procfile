@@ -1,1 +1,1 @@
-web : gunicorn qlsv.wsgi
+web : gunicorn main.wsgi
